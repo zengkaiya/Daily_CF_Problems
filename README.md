@@ -12,7 +12,7 @@
 
 - Upload your solution in the folder: `daily_problems/${YYYY}/${MM}/${MMDD}/personal_submission`.
 
-- Remember to name your submission code file `${problem_code}_{your_name}.{py/cpp/...}`.
+- Remember to name your submission code file `${problem_code}_${your_name}.{py/cpp/...}`.
 
 - Also, when creating a pull request, please title it `${YYYYMMDD} ${INFO}`.
 
@@ -23,6 +23,6 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 ## Today's Problem
 
 | Difficulty | Problems | Hints | Solution |
-| -------- | -------- | -------- | -------- |
-| 1600 | [CF1059C](https://codeforces.com/problemset/problem/1059/C) | Get the first non- $1$ element as soon as possible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0713/solution/cf1059c.md) |
-| 2300 | [CF432E](https://codeforces.com/problemset/problem/432/E) | Find the first element of non-filled position and fill it up. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0713/solution/cf432e.md) |
+| ---------- | -------- | ----- | -------- |
+| 1600 | [CF617C](https://codeforces.com/problemset/problem/617/C) | Iterate over what flower is in the range of the first fountain. Special case: no flowers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0322/solution/cf617c.md) |
+| 2200 | [CF332C](https://codeforces.com/problemset/problem/332/C) | If the orders are chosen, how should the chairperson choose? Sort the array so that this part comes easy. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0322/solution/cf332c.md) |
